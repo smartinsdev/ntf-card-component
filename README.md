@@ -104,12 +104,6 @@ See below:
   opacity: 1;
 }
 ```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
 ### Useful resources
 
 - [Example resource 1](https://www.w3schools.com/howto/howto_css_image_overlay.asp) - This helped me for how to create image overlay hover effects. I really liked this pattern and will use it going forward.
